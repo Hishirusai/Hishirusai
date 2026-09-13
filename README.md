@@ -19,7 +19,7 @@
 ---
 
 ### 🎨 Creative Software & 3D Workflow
-![Ibis Paint](https://img.shields.io/badge/ibis_Paint_X-FF6F00?style=for-the-badge&logo=artstation&logoColor=white)
+![ibis Paint](https://img.shields.io/badge/ibis_Paint_X-FF6F00?style=for-the-badge&logo=artstation&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3498DB?style=for-the-badge&logo=krita&logoColor=white)
 ![Affinity](https://img.shields.io/badge/Affinity-222426?style=for-the-badge&logo=affinity&logoColor=white)
@@ -37,11 +37,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hishirusai&show_icons=true&theme=tokyonight&hide_border=true" alt="Hishirusai GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishirusai&layout=compact&theme=tokyonight&hide_border=true" alt="Hishirusai Top Languages" />
-</p>
